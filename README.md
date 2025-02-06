@@ -1,1 +1,2 @@
-# Numeros-Secretos
+# Numeros-Secretos por JS
+Tente adiviar
